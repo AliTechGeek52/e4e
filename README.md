@@ -77,11 +77,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Chatbot
 [Click here to test API in postman](https://www.getpostman.com/collections/b5a6074f5a6d9278a859)
 
-For user query = ```براہ کرم پانچویں جماعت کے اسلامیات کا پہلا باب کھولیں
-```
+For user query = ```براہ کرم پانچویں جماعت کے اسلامیات کا پہلا باب کھولیں```
 the response is
-```
-{
+
+```{
     "text": "براہ کرم پانچویں جماعت کے اسلامیات کا پہلا باب کھولیں",
     "intents": [
         {
