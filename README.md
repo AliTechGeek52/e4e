@@ -75,6 +75,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Chatbot
+Right now the bot has two intents.
+1. Intro
+2. Lesson
+
+If you ask about the functionality of app, or what is this capplication about, it detects the ```intro``` intent, however when you ask the bot to open any ```chapter``` of a certain ```subject``` of a certain ```class```(grade), it is able to detect ```lesson``` intent with ```subject```, class and ```chapter``` number as an entity.
+
 [Click here to test API in postman](https://www.getpostman.com/collections/b5a6074f5a6d9278a859)
 
 For user query = ```براہ کرم پانچویں جماعت کے اسلامیات کا پہلا باب کھولیں```
