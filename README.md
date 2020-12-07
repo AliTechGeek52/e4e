@@ -1,3 +1,7 @@
+# E4E
+1. Getting Started with Create React App
+2. Chatbot
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,67 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Chatbot
+[Click here to test API in postman](https://www.getpostman.com/collections/b5a6074f5a6d9278a859)
+
+For user query = ```براہ کرم پانچویں جماعت کے اسلامیات کا پہلا باب کھولیں
+```
+the response is
+```
+{
+    "text": "براہ کرم پانچویں جماعت کے اسلامیات کا پہلا باب کھولیں",
+    "intents": [
+        {
+            "id": "680708539259936",
+            "name": "lesson",
+            "confidence": 0.9995
+        }
+    ],
+    "entities": {
+        "chap:chap": [
+            {
+                "id": "416998306151215",
+                "name": "chap",
+                "role": "chap",
+                "start": 38,
+                "end": 42,
+                "body": "پہلا",
+                "confidence": 0.9919,
+                "entities": [],
+                "value": "پہلا",
+                "type": "value"
+            }
+        ],
+        "sub:sub": [
+            {
+                "id": "758951058298102",
+                "name": "sub",
+                "role": "sub",
+                "start": 26,
+                "end": 34,
+                "body": "اسلامیات",
+                "confidence": 0.9927,
+                "entities": [],
+                "value": "اسلامیات",
+                "type": "value"
+            }
+        ],
+        "class:class": [
+            {
+                "id": "665386327477421",
+                "name": "class",
+                "role": "class",
+                "start": 9,
+                "end": 16,
+                "body": "پانچویں",
+                "confidence": 0.986,
+                "entities": [],
+                "value": "پانچویں",
+                "type": "value"
+            }
+        ]
+    },
+    "traits": {}
+}```
