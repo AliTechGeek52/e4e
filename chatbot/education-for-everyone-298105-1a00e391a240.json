@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "education-for-everyone-298105",
+  "private_key_id": "1a00e391a2403edc3b100dfe62b3311102b28985",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCqDkR8BSmw1+Qk\n+8V55nVZvIdPZUbb8klcBTOmlOvcFDNKIpIZfzwCTLjAkWAQj6xnh6FkHniuU/7Z\nrtDYiiHafnlZuRMpJ4Yy1kQiTCq4yRBW6UMgGp72M6EIIjF2eYoLzYh/EhFedbaT\nOw5HIHn44LRv8e1xL8Fp+Wev52n97G+5CIY3KK/Q6YXnIrTJ00L8QvtEv1QeL1L0\nNLlgo+3lezzmQKrX0rBuWEmIfQFT3FeyHK/yJxLRk64xENT+2OCxkj1ALsa4eRSq\nlCVAOgKn6ZwM0UT+jq7+IdBNUdqqyPuNWuYKAFHIMukLELVHrjBvFbbr33+NANUV\nLHccIQgfAgMBAAECggEATWoqVhUZmhZmF0oAZ5J4yK2xIX026UjeiYQas9Jmnu0Z\nPj4HqZDI9jkMACoOA+wL7aOKXqQahy3Yvis9it4zNB7QSn6c0ObbykfNg5mN90oc\n5JvTAYns5KKzQ5shTlBc/iuGYGaOvqQyxcqkINARhrFwoueNErJNR9uQjrz3/O5G\nPW5k+uj9R4mfxTcjRSLQirrC909B9ODlT0n6qf/QnShTmRJ4iZMU4UiJCk/hm752\nak7brTTnomsnoVbVxUUjko5ak5p9rzdF/jouM2GFefb+iREPiKa1xmqx6DQEvOk6\nflLWKPGWvw7sEjNI8RjF12t4euom56P2MJ7UtTbXwQKBgQDwUPoKh8rlMlxeBlV8\ndp8Rz0AzfyM+HNDLk7ZKk8lLkAfxpghb2e6hA6G4QXCPUFpLfUmcgkvjw2zcv7xy\niRiRJzT10WGW7dIHstYP7bCxoNC4kXFkWvEq1bbtYEKeMVVvgxUg1nvW2GGVpY22\nylhU9TBWa/x83RpK5SHh7D2jXwKBgQC1J24bXUiwowgFDgtEWBx9oi1j6evS50FY\nJtEBR/CMVUvikUs4K8vic3UkMnOOQGm5cp/bqGFyaSfebOBmFIHbjuVF3xrQQ/mZ\nZQqmM8Oi4hWyU7jwkCKU5LUs0tihHQiV4+oDWCaJlBSN4IVoiOnEZHryjVgrELNC\nRbl5tzWTQQKBgQCyilbaT/zLv1ikemw0piSUJLf8Cm7yjJILTVjXm2in/QAJ5mK7\navRBJ+OUcvnfX8FV6GUyJBOhyeUtND4bkgNwhAJyxvaMHXA3TASBnQPzVBj9pwDp\noC8gtdrMDQIxaVGiIW8nEHK9MdF+Tps0vKxXojohWuUhF1ubXRSJNuysXQKBgQCh\ndwmvHlBiEI5fYwsr2ZVbbagjfCaUD0ew+Lgl+icwDf7bbUGsSW0q5Fou70EMM+GI\nR+Cwer6QqaW9nTHOCs1ME2vMAXX21/+rd+IsDct8bSOFlRYsZWxNZiUOVMh9olE6\nuLCmVnXS/sfrRYnjiNVEFYN4mf9SM0pz8Y3GLUR1gQKBgQDMfDWagSREoM+g37H9\nNJszfT2+mbN7rpPsOA8W2c8ad9ZxNStcVACdzUmzrem1LKHVjPEJ3vXEKuNvxy+2\nLNpEYExyjLnYu3dKTyJ0/mNQQSkPzNmyHQ+UJf+aJdQUpzCnI7ukxVxw+JK+mjsc\ndQA/dALFUqlBFLKDcNFzwzlmWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wit-ai@education-for-everyone-298105.iam.gserviceaccount.com",
+  "client_id": "106514479713282995074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wit-ai%40education-for-everyone-298105.iam.gserviceaccount.com"
+}

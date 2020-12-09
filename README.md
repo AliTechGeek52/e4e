@@ -72,4 +72,4 @@ the response is
 ```
 
 
-Having received this json, we can fetch any lecture from database and deliver to the user. We have also added speech to text funtionality integrated with this bot. You can find this at ```chatbot/e4e.py```. Watch [this video](https://www.awesomescreenshot.com/video/2009268?key=827430e8b791b1806ee08175be046e08) to learn more about it. 
+Having received this json, we can fetch any lecture from database and deliver to the user. We have also added speech to text funtionality integrated with this bot. You can find this at ```chatbot/e4e.py```. Watch [this video](https://www.awesomescreenshot.com/video/2009268?key=827430e8b791b1806ee08175be046e08) to learn more about it. To test the script ```e4e.py```, you fist need to export ```GOOGLE_APPLICATION_CREDENTIALS``` with the path of service account key(```education-for-everyone-298105-1a00e391a240.json```) given at the same location. ```e4e-2020-12-07-09-30-38.zip``` is just the zip file for [wit.ai](https://www.wit.ai), which you can upload at [wit.ai](https://www.wit.ai) website to checkout chatbot in detail and make changes into it.
