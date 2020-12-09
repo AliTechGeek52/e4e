@@ -1,5 +1,7 @@
 # E4E
 
+1. Completed the homepage.
+
 # Chatbot
 Right now the bot has two intents.
 1. Intro
