@@ -70,4 +70,5 @@ the response is
     "traits": {}
 }```
 
+
 Having received this json, we can fetch any lecture from database and deliver to the user. We have also added speech to text funtionality integrated with this bot. You can find this at ```chatbot/e4e.py```. Watch [this video](https://www.awesomescreenshot.com/video/2009268?key=827430e8b791b1806ee08175be046e08) to learn more about it. 
